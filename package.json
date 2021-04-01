@@ -1,15 +1,24 @@
 {
   "name": "cycle-queue",
   "version": "1.0.0",
-  "description": "Queue Data Structure that will allow you to cycle forward and backwards",
+  "description": "CycleQueue apart from a standard queue is the ability to go forward and backwards in the queue without losing the current element.",
   "main": "cycle-queue.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pcaly626/CycleQueue.git"
+  },
   "keywords": [
     "datastructure",
     "queue",
     "cycle"
   ],
-  "author": "Paul Clay",
+  "author": "Paul T. Clay",
   "license": "MIT",
-  "dependencies": {},
-  "devDependencies": {}
+  "bugs": {
+    "url": "https://github.com/pcaly626/CycleQueue/issues"
+  },
+  "homepage": "https://github.com/pcaly626/CycleQueue#readme"
 }
