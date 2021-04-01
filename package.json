@@ -1,0 +1,15 @@
+{
+  "name": "cycle-queue",
+  "version": "1.0.0",
+  "description": "Queue Data Structure that will allow you to cycle forward and backwards",
+  "main": "test.js",
+  "keywords": [
+    "datastructure",
+    "queue",
+    "cycle"
+  ],
+  "author": "Paul Clay",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {}
+}
