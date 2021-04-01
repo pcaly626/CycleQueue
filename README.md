@@ -1,14 +1,22 @@
 # CycleQueue
 
+## Install
+
+    ```npm install cycle-queue```
+
+## github
+
+    ```https://github.com/pcaly626/CycleQueue```
+
 ## How to use
 
 Code snippet:
 
-    `let cycleQ = require("CycleQueue")`
+    ```let cycleQ = require("CycleQueue")```
 
 To initalize:
 
-    `let queue = new cycleQ("Test")`
+   ```let queue = new cycleQ("Test")```
 
 CycleQueue accepts all primative types and Arrays
 
@@ -16,9 +24,9 @@ CycleQueue accepts all primative types and Arrays
 
 What sets CycleQueue apart from a standard queue is the ability to go forward and backwards in the queue without losing the current element. 
 
-    `queue.cycleForward()`
+    ```queue.cycleForward()```
 
-    `queue.cycleBack()`
+    ```queue.cycleBack()```
 
 ## About
 
