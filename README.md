@@ -3,16 +3,36 @@
 ## Install
 
    ```npm install cycle-queue```
+   or 
+   ```npm i cycle-queue```
 
 ## github
 
    ```https://github.com/pcaly626/CycleQueue```
 
+## Test
+
+   ```npm run test``
+
+   This is the expected output 
+
+   ```
+   Test
+   1
+   2
+   3
+   CycleQueue { queue: [ 'Test', 1, 2, 3 ], indexOfQueue: 0 }
+   { test: [ 1, 2, 3, 4 ] }
+   CycleQueue { queue: [ { test: [Array] } ], indexOfQueue: 0 }
+   ```
+
+This will test initalization of the CycleQueue class
+
 ## How to use
 
 Code snippet:
 
-   ```let cycleQ = require("CycleQueue")```
+   ```let cycleQ = require("cycle-queue")```
 
 To initalize:
 

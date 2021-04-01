@@ -1,6 +1,6 @@
 {
   "name": "cycle-queue",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "CycleQueue apart from a standard queue is the ability to go forward and backwards in the queue without losing the current element.",
   "main": "cycle-queue.js",
   "scripts": {
