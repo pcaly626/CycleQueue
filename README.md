@@ -12,7 +12,7 @@
 
 ## Test
 
-   ```npm run test``
+   ```npm run test```
 
    This is the expected output 
 
